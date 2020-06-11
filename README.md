@@ -1,8 +1,8 @@
-## Shahre Farang 
+# Shahre Farang 
 
-# This project is a place to share videos
+## This project is a place to share videos
 
-# Using 
+### Using 
 1. PHP
 2. MySql
 3. JavaScript
